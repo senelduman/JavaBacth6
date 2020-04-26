@@ -34,7 +34,7 @@ public class Dog {
 	
 	}
 	void eat() {
-		System.out.println( name +"Dog can eat");
+		System.out.println( name +"Dog can play");
 	}
 	void bark() {
 		System.out.println(name +"Dog can bark");
